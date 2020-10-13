@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc72ae33-c326-4e5a-bd17-00aeb9469c69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fxCUbitRiPkvkxqRgWtq43Z8ry" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\renlianhuotijiance\fas-tf2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.testDemo">
+    <configuration name="face" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fas-tf2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generator_network" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fas-tf2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generator_network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mnist_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fas-tf2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mnist_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="network" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fas-tf2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fas-tf2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testDemo" />
+        <item itemvalue="Python.generator_network" />
+        <item itemvalue="Python.mnist_test" />
+        <item itemvalue="Python.face" />
+        <item itemvalue="Python.network" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc72ae33-c326-4e5a-bd17-00aeb9469c69" name="Default Changelist" comment="" />
+      <created>1597150373509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597150373509</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="198" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598756984283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="432" y="198" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1598756984283" />
+    <state x="436" y="101" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598341556844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="101" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1598341556844" />
+    <state x="437" y="0" key="#mask" timestamp="1597981310463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="437" y="0" key="#mask/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1597981310463" />
+    <state x="499" y="111" key="FileChooserDialogImpl" timestamp="1599788422494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="111" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599788422494" />
+    <state width="1510" height="292" key="GridCell.Tab.0.bottom" timestamp="1600852873023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="210" key="GridCell.Tab.0.bottom/-1920.0.1536.824/0.0.1536.824@-1920.0.1536.824" timestamp="1597978839563" />
+    <state width="1510" height="126" key="GridCell.Tab.0.bottom/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1598004094242" />
+    <state width="1510" height="292" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600852873023" />
+    <state width="1510" height="292" key="GridCell.Tab.0.center" timestamp="1600852873023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="210" key="GridCell.Tab.0.center/-1920.0.1536.824/0.0.1536.824@-1920.0.1536.824" timestamp="1597978839562" />
+    <state width="1510" height="126" key="GridCell.Tab.0.center/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1598004094242" />
+    <state width="1510" height="292" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600852873023" />
+    <state width="1510" height="292" key="GridCell.Tab.0.left" timestamp="1600852873023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="210" key="GridCell.Tab.0.left/-1920.0.1536.824/0.0.1536.824@-1920.0.1536.824" timestamp="1597978839562" />
+    <state width="1510" height="126" key="GridCell.Tab.0.left/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1598004094242" />
+    <state width="1510" height="292" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600852873023" />
+    <state width="1510" height="292" key="GridCell.Tab.0.right" timestamp="1600852873023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="210" key="GridCell.Tab.0.right/-1920.0.1536.824/0.0.1536.824@-1920.0.1536.824" timestamp="1597978839563" />
+    <state width="1510" height="126" key="GridCell.Tab.0.right/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1598004094242" />
+    <state width="1510" height="292" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600852873023" />
+    <state width="1510" height="247" key="GridCell.Tab.1.bottom" timestamp="1598351570662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="247" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598351570662" />
+    <state width="1510" height="247" key="GridCell.Tab.1.center" timestamp="1598351570662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="247" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598351570662" />
+    <state width="1510" height="247" key="GridCell.Tab.1.left" timestamp="1598351570662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="247" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598351570662" />
+    <state width="1510" height="247" key="GridCell.Tab.1.right" timestamp="1598351570662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="247" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598351570662" />
+    <state x="154" y="0" key="SettingsEditor" timestamp="1599815200479">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="154" y="0" key="SettingsEditor/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1597896917101" />
+    <state x="154" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599815200479" />
+    <state x="423" y="91" width="675" height="655" key="StructurePopup" timestamp="1598661704846">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="423" y="91" width="675" height="655" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1598661704846" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1598110062908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1598110062908" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1598267902139">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1598267902139" />
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1602494460331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1602494460331" />
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1600851106583" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1598707602561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1597417363974" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598707602561" />
+  </component>
+</project>
